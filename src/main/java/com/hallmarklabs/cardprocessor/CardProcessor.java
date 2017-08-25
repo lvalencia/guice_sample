@@ -4,14 +4,16 @@ import com.google.inject.Inject;
 import java.util.Properties;
 
 public class CardProcessor {
-    private Properties props;
+    @Inject
+    private Configurable config;
 
     @Inject
-    public CardProcessor(Configurable config) {
-        this.props = config.getProperties();
+    public CardProcessor(Configurable config, Licensable license) throws Exception {
+        license.loadLicenseFile();
+        this.config = config;
     }
 
     public void showProps(){
-        System.out.println(props);
+        System.out.println(config);
     }
 }

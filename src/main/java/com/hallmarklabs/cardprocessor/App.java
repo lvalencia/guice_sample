@@ -7,6 +7,7 @@ public class App {
     public static void main( String[] args ) throws Exception
     {
         Injector injector = Guice.createInjector(new ConfigModule());
+
         CardProcessor cp = injector.getInstance(CardProcessor.class);
         cp.showProps();
     }

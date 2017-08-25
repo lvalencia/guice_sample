@@ -20,20 +20,16 @@
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:19.0" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:itextpdf:5.5.12" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:itext-pdfa:5.5.12" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf:itext-xtra:5.5.12" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-imaging:1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf.tool:xmlworker:5.5.12" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf.tool:xfaworker:5.5.12" level="project" />
-    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.49" level="project" />
-    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.49" level="project" />
-    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.3" level="project" />
-    <orderEntry type="library" name="Maven: org.abego.treelayout:org.abego.treelayout.core:1.0.1" level="project" />
-    <orderEntry type="library" name="Maven: org.antlr:antlr4-annotations:4.3" level="project" />
-    <orderEntry type="library" name="Maven: org.mozilla:rhino:1.7R4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:barcodes:7.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.13" level="project" />
-    <orderEntry type="library" name="Maven: com.itextpdf.tool:itext-licensekey:1.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:font-asian:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:forms:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:hyph:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:io:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:kernel:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:layout:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:pdfa:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:sign:7.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:itext-licensekey:2.0.4" level="project" />
   </component>
 </module>

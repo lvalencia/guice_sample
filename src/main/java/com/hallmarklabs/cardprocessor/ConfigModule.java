@@ -6,5 +6,6 @@ public class ConfigModule extends AbstractModule {
     @Override
     protected void configure() {
         bind(Configurable.class).to(AppConfig.class);
+        bind(Licensable.class).to(LicenseLoader.class);
     }
 }
